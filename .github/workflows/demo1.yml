@@ -1,0 +1,9 @@
+
+---
+
+### 6. **GitHub Actions Info (Optional)**
+
+```markdown
+## ⚙️ GitHub Actions
+
+This project includes a simple GitHub Action workflow that runs `flake8` to check Python code quality automatically on each push or pull request.
